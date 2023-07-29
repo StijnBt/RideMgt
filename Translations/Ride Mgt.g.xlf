@@ -1,0 +1,1574 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Ride Mgt">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1015885023 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customization Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Ride Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1015885023 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Ride Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1015885023 - Field 2553974825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quote Expiration Formula</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Ride Setup - Field Quote Expiration Formula - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1015885023 - Field 3239557541 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job G/L Account Billable</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Ride Setup - Field Job G/L Account Billable - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1015885023 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ride Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Ride Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1015885023 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Ride Setup - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3594614433 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Job Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3594614433 - Field 1893021230 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Type Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Job Type - Field Job Type Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3594614433 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Job Type - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3594614433 - Field 1167507281 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Job Type - Field Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1765110373 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Map Service Function</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Map Service Function - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1765110373 - Field 4096439596 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Map Service Provider</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Map Service Function - Field Map Service Provider - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1765110373 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Map Service Function - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1765110373 - Field 3017471043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Map Service Function - Field Table No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1765110373 - Field 4165234317 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Url</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Map Service Function - Field Url - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1765110373 - Field 3017448020 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Instructions Url</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Map Service Function - Field Instructions Url - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1765110373 - Field 1659701640 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Exchange Definition Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Map Service Function - Field Data Exch. Def. Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1765110373 - Field 2739450016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Intermediate Xml Download</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Map Service Function - Field Intermediate Xml Download - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1765110373 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Map Service Function - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1765110373 - Field 3808951907 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Map Service Function - Field Table Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4096439596 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Map Service Provider</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Map Service Provider - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4096439596 - Field 4096439596 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Map Service Provider</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Map Service Provider - Field Map Service Provider - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4096439596 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Map Service Provider - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4096439596 - Field 4253087169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Map Service Provider - Field API Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4096439596 - Field 369878539 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Referer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Map Service Provider - Field Referer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4096439596 - Field 1774960942 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default Provider</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Map Service Provider - Field Default Provider - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4096439596 - Field 4036074297 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Functions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Map Service Provider - Field No. of Functions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4096439596 - Field 3159872777 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Geocoding Function</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Map Service Provider - Field Geocoding Function - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4096439596 - Field 3462075169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reverse Geocoding Function</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Map Service Provider - Field Reverse Geocoding Function - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4096439596 - Method 1863242410 - NamedType 441604107" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 is already marked as %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Map Service Provider - Method CheckSingleDefaultProvider - NamedType AlreadyDefaultProviderErr</note>
+        </trans-unit>
+        <trans-unit id="Enum 4096439596 - EnumValue 544658778 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Google Maps API</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Map Service Provider - EnumValue GoogleMapsAPI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4096439596 - EnumValue 3119711547 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open Street Map API</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Map Service Provider - EnumValue OpenStreetMap - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 422108451 - Field 2333076789 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PrimaryKey</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VDC Manager Cue - Field PrimaryKey - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 422108451 - Field 2593441947 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quotes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VDC Manager Cue - Field Quotes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 422108451 - Field 3517906108 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open Jobs</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VDC Manager Cue - Field Open Jobs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 422108451 - Field 358044302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Available People</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VDC Manager Cue - Field Available People - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 422108451 - Field 614126382 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Available Vehicles</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VDC Manager Cue - Field Available Vehicles - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 422108451 - Field 4063961727 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pending Sales Invoices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VDC Manager Cue - Field Pending Sales Invoices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 422108451 - Field 3640265669 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pending Sales Credit Memos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VDC Manager Cue - Field Pending Sales Credit Memos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 422108451 - Field 2123724226 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active Routes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VDC Manager Cue - Field Active Routes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 422108451 - Field 3848048428 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Waypoints</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VDC Manager Cue - Field Waypoints - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 422108451 - Field 143592048 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VDC Manager Cue - Field User ID Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 422108451 - Field 995090288 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VDC Manager Cue - Field Date Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 422108451 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Cue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 422108451 - Control 2481932389 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Cue - Control JobCueContainer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 422108451 - Control 2593441947 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quotes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Cue - Control Quotes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 422108451 - Control 2593441947 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quotes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Cue - Control Quotes - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 422108451 - Control 3517906108 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open Jobs</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Cue - Control Open Jobs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 422108451 - Control 3517906108 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open Jobs</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Cue - Control Open Jobs - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 422108451 - Control 4063961727 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pending Sales Invoices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Cue - Control Pending Sales Invoices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 422108451 - Control 4063961727 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pending Sales Invoices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Cue - Control Pending Sales Invoices - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 422108451 - Control 3640265669 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pending Sales Credit Memos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Cue - Control Pending Sales Credit Memos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 422108451 - Control 3640265669 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pending Sales Credit Memos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Cue - Control Pending Sales Credit Memos - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 422108451 - Control 3260668823 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Routes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Cue - Control RouteCueContainer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 422108451 - Control 2123724226 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active Routes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Cue - Control Active Routes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 422108451 - Control 2123724226 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active Routes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Cue - Control Active Routes - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 422108451 - Control 3848048428 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Waypoints</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Cue - Control Waypoints - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 422108451 - Control 3848048428 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Waypoints</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Cue - Control Waypoints - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 422108451 - Control 2068237738 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resources</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Cue - Control ResourceCueContainer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 422108451 - Control 358044302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Available People</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Cue - Control Available People - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 422108451 - Control 358044302 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Available People</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Cue - Control Available People - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 422108451 - Control 614126382 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Available Vehicles</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Cue - Control Available Vehicles - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 422108451 - Control 614126382 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Available Vehicles</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Cue - Control Available Vehicles - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 422108451 - Action 742001001 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set Up Cues</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Cue - Action Set Up Cues - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 422108451 - Action 742001001 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up the cues (status tiles) related to the role.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Cue - Action Set Up Cues - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1992556530 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Route Header</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Route Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1992556530 - Field 172927802 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Route No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Route Header - Field Route No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1992556530 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Route Header - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1992556530 - Field 69708646 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Route Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Route Header - Field No. of Route Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1992556530 - Field 473605269 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Distance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Route Header - Field Distance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1992556530 - Field 3543129988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blocked</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Route Header - Field Blocked - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1992556530 - Field 1637095154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Durarion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Route Header - Field Duration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2126484889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Route Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Route Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2126484889 - Field 172927802 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Route No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Route Line - Field Route No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2126484889 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Route Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2126484889 - Field 4084615002 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Waypoint Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Route Line - Field Waypoint Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2126484889 - Field 2895872703 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sorting No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Route Line - Field Sorting No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2126484889 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Route Line - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2126484889 - Field 966287263 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Route Line - Field Name 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2126484889 - Field 3168444338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Route Line - Field Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2126484889 - Field 2306852000 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Route Line - Field Address 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2126484889 - Field 714791889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Route Line - Field City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2126484889 - Field 3660300303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Route Line - Field Post Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2126484889 - Field 284764054 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Country/Region Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Route Line - Field Country/Region Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2126484889 - Field 1270796821 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Longitude</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Route Line - Field Longitude - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2126484889 - Field 1266564 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Latitude</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Route Line - Field Latitude - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2126484889 - Field 915332364 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stop</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Route Line - Field Stop - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 414330453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Waypoint</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Waypoint - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 414330453 - Field 4084615002 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Waypoint - Field Waypoint Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 414330453 - Field 3017471043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Waypoint - Field Table No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 414330453 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Waypoint - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 414330453 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Waypoint - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 414330453 - Field 966287263 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Waypoint - Field Name 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 414330453 - Field 3168444338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Waypoint - Field Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 414330453 - Field 2306852000 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Waypoint - Field Address 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 414330453 - Field 714791889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Waypoint - Field City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 414330453 - Field 3660300303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Waypoint - Field Post Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 414330453 - Field 499448942 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>County</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Waypoint - Field County - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 414330453 - Field 1856816140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Country</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Waypoint - Field Country - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 414330453 - Field 284764054 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Country/Region Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Waypoint - Field Country/Region Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 414330453 - Field 1266564 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Latitude</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Waypoint - Field Latitude - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 414330453 - Field 1270796821 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Longitude</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Waypoint - Field Longitude - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 414330453 - Field 3069045817 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Google Place Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Waypoint - Field Google Place Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1166631427 - Method 3446140215 - NamedType 672517604" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No valid %1 found for %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Map Service Mgt. - Method GetMapServiceFunction - NamedType NoFunctionFoundErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1166631427 - Method 3446140215 - NamedType 3829335646" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 does not exist</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Map Service Mgt. - Method GetMapServiceFunction - NamedType NotExistDataExchDefErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1166631427 - Method 3446140215 - NamedType 55589102" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 of %2 %3 should be json</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Map Service Mgt. - Method GetMapServiceFunction - NamedType FileTypeDataExchDefErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 231783203 - Method 3315057669 - NamedType 750120336" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are You Sure?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Finish Quote - Method ConfirmFinishQuote - NamedType ConfirmQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 231783203 - Method 3323620043 - NamedType 738762091" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You successfully executed "Finish Quote"</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Finish Quote - Method AcknowledgeFinishQuote - NamedType AcknowledgeMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1829446392 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>An open %1 is linked to this %2. The %1 has to be closed before the %2 can be converted to an %3. Do you want to close the %1 now and continue the conversion?</source>
+          <note from="Developer" annotates="general" priority="2">An open Opportunity is linked to this Quote. The Opportunity has to be closed before the Quote can be converted to an Order. Do you want to close the Opportunity now and continue the conversion?</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Sales to Job - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1829446392 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>An open %1 is still linked to this %2. The conversion to an %3 was aborted.</source>
+          <note from="Developer" annotates="general" priority="2">An open Opportunity is still linked to this Quote. The conversion to an Order was aborted.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Sales to Job - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1829446392 - Method 191125406 - NamedType 3125323851" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Head</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Sales to Job - Method CreateJobDetail - NamedType BeginTotalTaskDesc</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1829446392 - Method 191125406 - NamedType 2920552163" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Sales to Job - Method CreateJobDetail - NamedType EndTotalTaskDesc</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1829446392 - Method 191125406 - NamedType 1766496929" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Execution</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Sales to Job - Method CreateJobDetail - NamedType PostingTaskDescExec</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1829446392 - Method 191125406 - NamedType 788568703" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Billing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Sales to Job - Method CreateJobDetail - NamedType PostingTaskBillExec</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 629726664 - NamedType 3900149378" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to convert the quote to a job?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Sales to Job (Yes/No) - NamedType ConfirmConvertToOrderQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 629726664 - NamedType 110109227" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The quote has been converted to job %1. Do you want to open the new job?</source>
+          <note from="Developer" annotates="general" priority="2">%1 = No. of the new job.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Sales to Job (Yes/No) - NamedType OpenNewJobQst</note>
+        </trans-unit>
+        <trans-unit id="Page 119231928 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Types</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Job Types - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2708720796 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Map Service Functions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Map Service Functions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2708720796 - Control 2739450016 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Download the generated xml used in final mapping. For debugging &amp; mapping purposes.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Map Service Functions - Control Intermediate Xml Download - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3736022925 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Map Service Providers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Map Service Providers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3736022925 - Control 4253087169 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Some services require to identify yourself by an API Key. Mostly for billing purposes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Map Service Providers - Control API Key - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3736022925 - Control 369878539 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Some services require to identify yourself by a Referer header. Example: https://www.example.com</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Map Service Providers - Control Referer - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3736022925 - Action 1832316133 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Functions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Map Service Providers - Action MapServiceProvFunctions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Control 2375094009 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Actual Price to Budget Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Control Job Actual Price to Budget Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Control 1403264013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Profitability</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Control Job Profitability - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Control 1629195009 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Actual Cost to Budget Cost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Control Job Actual Cost to Budget Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 3527587360 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Action2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 3527587360 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Action2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1149918667 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quotes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action SalesQuotes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1149918667 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quotes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action SalesQuotes - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1235986369 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Jobs</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Action90 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1235986369 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Define a project activity by creating a job card with integrated job tasks and job planning lines, structured in two layers. The job task enables you to set up job planning lines and to post consumption to the job. The job planning lines specify the detailed use of resources, items, and various general ledger expenses.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Action90 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 2728404382 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pending invoices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action SalesInvoices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 2728404382 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pending invoices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action SalesInvoices - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 2889890743 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Tasks</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Action3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 2889890743 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the list of ongoing job tasks. Job tasks represent the actual work that is performed in a job, and they enable you to set up job planning lines and to post consumption to the job.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Action3 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 2097003905 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Planning Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Job Planning Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 2097003905 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the list of ongoing job planning lines for the job. You use this window to plan what items, resources, and general ledger expenses that you expect to use on a job (budget) or you can specify what you actually agreed with your customer that he should pay for the job (billable).</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Job Planning Lines - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 2968984816 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Crm</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Crm - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 2968984816 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Crm</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Crm - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 3606140129 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Customers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 3606140129 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit detailed information for the customers that you trade with. From each customer card, you can open related information, such as sales statistics and ongoing orders, and you can define special prices and line discounts that you grant if certain conditions are met.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Customers - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 713531721 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendors</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Vendors - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 713531721 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit detailed information for the vendors that you trade with. From each vendor card, you can open related information, such as sales statistics and ongoing orders, and you can define special prices and line discounts that you grant if certain conditions are met.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Vendors - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 722101725 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contacts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Contacts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 722101725 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contacts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Contacts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1873682986 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resources &amp; Items</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Action91 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1873682986 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manage the people, machines &amp; items that are used to perform job tasks. </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Action91 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 598289752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resources</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Action93 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 598289752 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manage your resources' job activities by setting up their costs and prices. The job-related prices, discounts, and cost factor rules are set up on the respective job card. You can specify the costs and prices for individual resources, resource groups, or all available resources of the company. When resources are used or sold in a job, the specified prices and costs are recorded for the project.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Action93 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 2275139634 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource Groups</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Resource Groups - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 2275139634 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Organize resources in groups, such as Consultants, for easier assignment of common values and to analyze financial figures by groups.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Resource Groups - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1554554962 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Items</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Items - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1554554962 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit detailed information for the products that you trade in. The item card can be of type Inventory or Service to specify if the item is a physical unit or a labor time unit. Here you also define if items in inventory or on incoming orders are automatically reserved for outbound documents and whether order tracking links are created between demand and supply to reflect planning actions.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Items - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1217383327 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Standard Sales Codes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action StdSalesCodes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 900191585 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hrm</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Hrm - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 900191585 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hrm</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Hrm - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 347328507 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employees</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Employees - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 347328507 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employees</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Employees - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1928427128 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Absence Registration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action EmployeesAbsence - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1928427128 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Absence Registration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action EmployeesAbsence - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1483504031 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Journals</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action JobJournals - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1483504031 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record job expenses or usage in the job ledger, either by reusing job planning lines or by manual entry.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action JobJournals - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 707636572 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource Journals</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action ResourceJournals - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 707636572 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post usage and sales of your resources for internal use and statistics. Use time sheet entries as input. Note that unlike with job journals, entries posted with resource journals are not posted to G/L accounts.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action ResourceJournals - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 295317461 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted &amp; Archived Documents</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Posted Archived Documents - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 295317461 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the posting history/archive for sales, shipments, and inventory.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Posted Archived Documents - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 3434938165 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Sales Invoices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Posted Sales Invoices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 3434938165 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the list of posted sales invoices.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Posted Sales Invoices - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 2557560783 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Sales Credit Memos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Posted Sales Credit Memos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 2557560783 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the list of posted sales credit memos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Posted Sales Credit Memos - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 407220332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Purchase Invoices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Posted Purchase Invoices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 407220332 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the list of posted purchase credit memos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Posted Purchase Invoices - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 4135951594 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Purchase Credit Memos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Posted Purchase Credit Memos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 4135951594 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the list of posted purchase credit memos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Posted Purchase Credit Memos - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 561889749 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Quote Archives</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Sales Quote Archives - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 561889749 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the list of Sales Quote Archives.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Sales Quote Archives - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 225828172 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Ledger Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Job Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 225828172 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Ledger Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Job Ledger Entries - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 3398968351 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee Ledger Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Employee Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 3398968351 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee Ledger Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Employee Ledger Entries - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 997740791 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource Ledger Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Resource Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 997740791 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource Ledger Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Resource Ledger Entries - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1887905131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General Ledger Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action General Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1887905131 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General Ledger Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action General Ledger Entries - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 57277866 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setup &amp; Extensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action SetupAndExtensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 57277866 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Overview and change system and application settings, and manage extensions and services</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action SetupAndExtensions - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 3469146285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Company Information - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 3469146285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Company Information - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1015885023 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ride Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Ride Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1015885023 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ride Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Ride Setup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 4193107771 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Exchange Definitions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action DataExchDef - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 4193107771 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Exchange Definitions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action DataExchDef - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 799089619 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assisted Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Assisted Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 799089619 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up core functionality such as sales tax, sending documents as email, and approval workflow by running through a few pages that guide you through the information.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Assisted Setup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1325297727 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manual Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Manual Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1325297727 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Define your company policies for business departments and for general activities by filling setup windows manually.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Manual Setup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 522176896 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report Layout Selection</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Report Layout Selection - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 522176896 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report Layout Selection</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Report Layout Selection - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 2274420296 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Custom Report Layouts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Custom Report Layouts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 2274420296 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Custom Report Layouts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Custom Report Layouts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 892073532 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service Connections</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Service Connections - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 892073532 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enable and configure external services, such as exchange rate updates, Microsoft Social Engagement, and electronic bank integration.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Service Connections - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1663039630 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Extensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1663039630 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Install Extensions for greater functionality of the system.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Extensions - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 2098662804 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Workflows</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Workflows - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 2098662804 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up or enable workflows that connect business-process tasks performed by different users. System tasks, such as automatic posting, can be included as steps in workflows, preceded or followed by user tasks. Requesting and granting approval to create new records are typical workflow steps.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Workflows - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 645949893 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Configuration Packages</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action ConfigPackages - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 645949893 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Configuration Packages</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action ConfigPackages - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 258091325 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action NewGroup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 3535586384 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Page Job - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 3535586384 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create a new job.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Page Job - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 493475784 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job &amp;Create Sales Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Job &amp;Create Sales Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 493475784 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use a function to automatically create a sales invoice for one or more jobs.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Job &amp;Create Sales Invoice - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 2820957218 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update Job I&amp;tem Cost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Update Job I&amp;tem Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 2820957218 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use a function to automatically update the cost of items used in jobs.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Update Job I&amp;tem Cost - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 2176459415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reports</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Reports - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1220605422 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Reports</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Job Reports - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 2873743085 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job &amp;Analysis</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Job &amp;Analysis - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 2873743085 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analyze your jobs. For example, you can create a report that shows you the scheduled prices, usage prices, and contract prices, and then compares the three sets of prices.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Job &amp;Analysis - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 967120019 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Actual To &amp;Budget</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Job Actual To &amp;Budget - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 967120019 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Compare scheduled and usage amounts for selected jobs. All lines of the selected job show quantity, total cost, and line amount.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Job Actual To &amp;Budget - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 766433585 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job - Pla&amp;nning Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Job - Pla&amp;nning Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 766433585 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Define job tasks to capture any information that you want to track for a job. You can use planning lines to add information such as what resources are required or to capture what items are needed to perform the job.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Job - Pla&amp;nning Line - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 215958361 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Su&amp;ggested Billing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Job Su&amp;ggested Billing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 215958361 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View a list of all jobs, grouped by customer, how much the customer has already been invoiced, and how much remains to be invoiced, that is, the suggested billing.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Job Su&amp;ggested Billing - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 3486500659 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Jobs per &amp;Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Jobs per &amp;Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 3486500659 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View a list of all jobs, grouped by customer where you can compare the scheduled price, the percentage of completion, the invoiced price, and the percentage of invoiced amounts for each bill-to customer.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Jobs per &amp;Customer - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1232706116 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Items per &amp;Job</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Items per &amp;Job - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1232706116 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View which items are used for which jobs.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Items per &amp;Job - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1039130604 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Jobs per &amp;Item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Jobs per &amp;Item - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1039130604 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View on which job a specific item is used.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Jobs per &amp;Item - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 2988118668 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Absence Reports</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Absence Reports - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 2988118668 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analyze employee absence.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Absence Reports - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 3761063561 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee - Staff Absences</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Employee - Staff Absences - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 3761063561 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View a list of employee absences by date. The list includes the cause of each employee absence.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Employee - Staff Absences - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 2614239068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee - Absences by Causes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Employee - Absences by Causes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 2614239068 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View a list of all your employee absences categorized by absence code.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Employee - Absences by Causes - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 3496562731 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Manage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1997221262 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time Sheet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Timesheet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 480981775 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Time Sheets</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Create Time Sheets - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 480981775 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>As the time sheet administrator, create time sheets for resources that have the Use Time Sheet check box selected on the resource card. Afterwards, view the time sheets that you have created in the Time Sheets window.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Create Time Sheets - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 4113377500 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manager Time Sheets</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Manage Time Sheets - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 4113377500 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approve or reject your resources' time sheet entries in a window that contains lines for all time sheets that resources have submitted for review.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Manage Time Sheets - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 878272719 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manager Time Sheet by Job</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Manager Time Sheet by Job - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 878272719 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the list of time sheets for which your name is filled into the Person Responsible field on the related job card.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Manager Time Sheet by Job - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 750105602 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Capacity &amp; Availability</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action ResourceCapacity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 750105602 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Capacity &amp; Availability</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action ResourceCapacity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 3512836922 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource Capacity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Resource Capacity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 3512836922 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource Capacity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Resource Capacity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 2367883509 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource Availability</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Resource Availability - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 2367883509 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resource Availability</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Resource Availability - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1311530375 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Base Calendar List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Base Calendar List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1311530375 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Base Calendar List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Base Calendar List - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1142093705 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Work-Hour Templates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Work-Hour Templates - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1142093705 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Work-Hour Templates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Work-Hour Templates - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1637602602 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Closing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action WIP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1637602602 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Perform various post-processing of jobs.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action WIP - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 3522975341 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Calculate &amp;WIP</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Job Calculate &amp;WIP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 3522975341 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Calculate the general ledger entries needed to update or close the job.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Job Calculate &amp;WIP - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 2558495492 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Jo&amp;b Post WIP to G/L</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Jo&amp;b Post WIP to G/L - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 2558495492 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post to the general ledger the entries calculated for your jobs.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Jo&amp;b Post WIP to G/L - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1270320987 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job WIP</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Job WIP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1270320987 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Overview and track work in process for all of your projects. Each line contains information about a job, including calculated and posted WIP.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Job WIP - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 4201773078 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>History</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action History - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1814405003 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Find entries...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Navi&amp;gate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1406026447 - Action 1814405003 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Find entries and documents that exist for the document number and posting date on the selected document. (Formerly this action was named Navigate.)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VDC Manager Role Center - Action Navi&amp;gate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Profile 1406026447 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VDC Manager</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile VDC Manager Role Center - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Profile 1406026447 - Property 4111922599" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VDC Manager</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile VDC Manager Role Center - Property ProfileDescription</note>
+        </trans-unit>
+        <trans-unit id="Page 2974158115 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Map</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Map FactBox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 283668839 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Route</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Route Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 283668839 - Action 2497633815 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Calculate Route</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Route Card - Action CalculateRoute - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 283668839 - Action 662478453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export Gpx</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Route Card - Action ExportGpx - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 283668839 - Action 3451869001 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Xml</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Route Card - Action SerializeXml - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2216226810 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Route Lines Subform</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Route Lines Subform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2216226810 - Control 915332364 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Marks an actual stop in stead of just passing through.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Route Lines Subform - Control Stop - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 430914142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Routes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Routes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2957549561 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Waypoint Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Waypoint Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2957549561 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Waypoint Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2957549561 - Control 1571473969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Route Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Waypoint Card - Control RouteInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2957549561 - Action 3926974059 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update Latitude &amp; Longitude</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Waypoint Card - Action GetLongLatt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3848048428 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Waypoints</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Waypoints - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2209935661 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales-Quote to Job</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales-Quote to Job - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2209935661 - Control 1994964448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales-Quote to Job - Control Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2209935661 - Control 3689535207 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales-Quote to Job - Control CustomerNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2209935661 - Control 1687619566 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales-Quote to Job - Control JobTypeCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2209935661 - Control 1605194043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales-Quote to Job - Control JobDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2209935661 - Control 2818324089 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales-Quote to Job - Control Job - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2209935661 - Control 1137451085 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Starting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales-Quote to Job - Control JobStartDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2209935661 - Control 1380339528 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ending Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales-Quote to Job - Control JobEndDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2209935661 - Control 1932596869 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Responsable</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales-Quote to Job - Control JobResponsable - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2209935661 - Control 973130385 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>First Invoice Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales-Quote to Job - Control FirstInvDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2209935661 - Control 1654380959 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Job Prices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales-Quote to Job - Control CreateJobPrices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2209935661 - Control 1128541325 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity to Job</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales-Quote to Job - Control Qty. to Ship - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2209935661 - Method 1027696796 - NamedType 2921628094" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ending &amp; Starting date are mandatory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales-Quote to Job - Method CheckMandatoryFields - NamedType DatesErr</note>
+        </trans-unit>
+        <trans-unit id="Page 2209935661 - Method 1027696796 - NamedType 1441694605" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job description is mandatory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales-Quote to Job - Method CheckMandatoryFields - NamedType JobDescErr</note>
+        </trans-unit>
+        <trans-unit id="Page 2209935661 - Method 1027696796 - NamedType 3259199497" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job type code is mandatory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales-Quote to Job - Method CheckMandatoryFields - NamedType JobTypeCodeErr</note>
+        </trans-unit>
+        <trans-unit id="Page 2209935661 - Method 1027696796 - NamedType 948221812" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No. is mandatory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales-Quote to Job - Method CheckMandatoryFields - NamedType CustomerNoErr</note>
+        </trans-unit>
+        <trans-unit id="Page 2209935661 - Method 1027696796 - NamedType 5044654" size-unit="char" translate="yes" xml:space="preserve">
+          <source>First invoice date is mandatory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales-Quote to Job - Method CheckMandatoryFields - NamedType FirstInvDateErr</note>
+        </trans-unit>
+        <trans-unit id="Page 2209935661 - Method 2056020938 - NamedType 1707647923" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Startdate should be before Enddate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales-Quote to Job - Method ValidateStartEndDates - NamedType DateErr</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 99219797 - Action 2667510389 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 280137910">
+          <source>Finish Quote</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Quote Ext - Action Finish - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 99219797 - Action 1336082685 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 280137910">
+          <source>Create Job</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Quote Ext - Action CreateJob - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 99219797 - Action 1336082685 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 280137910">
+          <source>Convert the sales quote to a job.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Quote Ext - Action CreateJob - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2469519403 - Action 1989968955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 416138076">
+          <source>Insert &amp;Std. Sales Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Quote Subform Ext - Action InsertStdSalesCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2818324089 - Field 1893021230 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2818324089">
+          <source>Job Type Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Job - Field Job Type Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2818324089 - Field 1494829495 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2818324089">
+          <source>Sales Quote No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Job - Field Sales Quote No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4292657591 - Field 1786097247 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2014770230">
+          <source>Quote No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Job Task Ext. - Field Quote No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2566157781 - Field 3379441404 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 348912950">
+          <source>Template</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Resource Ext - Field Template - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 918849336 - Field 1893021230 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1948788855">
+          <source>Job Type Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Sales Header Archive Ext - Field Job Type Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4190488490 - Field 1893021230 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Job Type Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Sales Header Ext - Field Job Type Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1464939044 - EnumValue 1365275863 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Job Type Document - EnumValue Empty - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1464939044 - EnumValue 2818324089 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Job Type Document - EnumValue Job - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1464939044 - EnumValue 821689635 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Job Type Document - EnumValue Invoice - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

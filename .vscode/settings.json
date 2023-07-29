@@ -1,0 +1,18 @@
+{
+    "al.codeAnalyzers": [
+    "${AppSourceCop}","${CodeCop}","${PerTenantExtensionCop}","${UICop}"
+    ],
+    "CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.FileNamePatternPageCustomizations": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.ObjectNameSuffix": "",
+    "CRS.OnSaveAlFileAction": "Rename",
+    "al-test-runner.failingTestsColor": {
+
+        "red": 255,
+        "green": 0,
+        "blue": 0,
+        "alpha": 0.3
+    },
+    "bdev-al-xml-doc.checkProcedureDocumentation": false,
+}

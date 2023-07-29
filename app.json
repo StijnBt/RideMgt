@@ -1,0 +1,37 @@
+{
+  "id": "9ab9fc10-d092-40df-a044-25aca2f07cbe",
+  "name": "Ride Mgt",
+  "publisher": "",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./media/d&v.jpg",
+  "dependencies": [
+    {
+      "id": "ed8b3346-606b-4f87-99cc-b38c2ac80ea2",
+      "name": "RESTApp",
+      "publisher": "waldo",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "",
+  "applicationInsightsKey": "00000000-0000-0000-0000-000000000000",
+  "showMyCode": true,
+  "runtime": "6.0",
+  "features":  [
+    "TranslationFile"
+  ]
+}
